@@ -1,0 +1,4 @@
+{
+    "images_path" : "data/perfectly_detected_ears/train",
+    "annotations_path" : "data/perfectly_detected_ears/annotations/recognition/ids.csv"
+}
